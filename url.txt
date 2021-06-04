@@ -1,0 +1,8 @@
+http://80.78.248.162/
+http://80.78.248.162/products/
+http://80.78.248.162/contact/
+http://80.78.248.162/products/category/1/
+http://80.78.248.162/products/category/2/
+http://80.78.248.162/products/category/3/
+http://80.78.248.162/products/category/4/
+http://80.78.248.162/basket/
